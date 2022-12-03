@@ -9,3 +9,5 @@
 *.v2
 .vs/ProjetoMVC/v17/.suo
 *.targets
+*.2
+*.vsidx
