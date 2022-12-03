@@ -1,0 +1,11 @@
+
+*.json
+*.vsidx
+*.dll
+*.pdb
+*.pdb
+*.vsidx
+*.dll
+*.v2
+.vs/ProjetoMVC/v17/.suo
+*.targets
